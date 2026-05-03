@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Science projects  <br>🤝 I’m looking to collaborate on Data Science & AI projects  <br>🧠 I’m looking for help with Deep Learning and real-world ML applications  <br>🌱 I’m currently learning Machine Learning, Deep Learning, and Data Analysis  <br>💬 Ask me about Python, ML basics, and Data Science concepts  <br>⚡ Fun fact: I enjoy turning data into meaningful insights 🚀
+## 👨‍💻 About Me
 
+🔭 MSc Data Science student passionate about solving real-world problems using data  
+📊 Currently building Machine Learning projects and improving model performance  
+🤝 Open to collaboration on Data Science, ML, and AI projects  
+🌱 Learning: Machine Learning, Deep Learning, and Data Analytics  
+💬 Ask me about Python, ML algorithms, and data-driven problem solving  
+⚡ Fun fact: I enjoy turning raw data into impactful insights 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dakshesh_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dakshesh-parmar-37270137b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshesh1293.ds@gmail.com) 
